@@ -1,4 +1,6 @@
-## Olá! Eu sou o Lucas Damasceno
+## Hi, I'm Lucas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+<p>A young student who aspires to become a developer capable of solving other people's problems through software solutions. 💡😊</p> <br>
 
 <div align="center">
   <a href="https://github.com/lucasdam">
