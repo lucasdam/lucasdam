@@ -14,14 +14,10 @@
   <img src="https://xesque.rocketseat.dev/platform/tech/javascript.svg" width="30px"/>
   <img src="https://xesque.rocketseat.dev/platform/tech/bootstrap.svg" width="30px"/>
   <img src="https://xesque.rocketseat.dev/platform/tech/reactjs.svg" width="30px"/>
-  <img src="https://xesque.rocketseat.dev/platform/tech/nextjs.svg" width="30px"/>
   <img src="https://xesque.rocketseat.dev/platform/tech/node.svg" width="30px"/>
-  <img src="https://xesque.rocketseat.dev/platform/tech/redux.svg" width="30px"/>
-  <img src="https://xesque.rocketseat.dev/platform/tech/graphql.svg" width="30px"/>
   <img src="https://xesque.rocketseat.dev/platform/tech/typescript.svg" width="30px"/>
   <img src="https://xesque.rocketseat.dev/platform/tech/postgresql.svg" width="30px"/> 
   <img src="https://xesque.rocketseat.dev/platform/tech/mongodb.svg" width="30px"/>
-  <img src="https://xesque.rocketseat.dev/platform/tech/jest.svg" width="30px"/>
 </div>
   
 ##
