@@ -1,5 +1,4 @@
-## Hi, I'm Lucas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
+## Hi, I'm Lucas
 <div align="right">
   <a href="https://github.com/lucasdam">
     <img width="350px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdam&layout=compact&langs_count=7&theme=dracula"/>
